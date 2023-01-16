@@ -20,7 +20,7 @@ function hPlusThree() {
     homeCount += 3
     homeScoreEl.innerText = homeCount
 }
-window.hPlusThree = homeOne
+window.hPlusThree = hPlusThree
 
 function gPlusOne() {
     guestCount += 1
